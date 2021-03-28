@@ -5,9 +5,12 @@ BASIC TUTORIAL:
 -------------
 1 - DELETE THE HTML FOLDER AND SUBSTICTUTE TO THE ONE THAT YOU'VE DOWNLOADED
 ---------------------------------------------------------------------
-2 - ADD "html/hand-holding-solid.png", 
+2 - ADD 
+------------
+    "html/hand-holding-solid.png", 
     "html/give-a-gift-svgrepo-com.png",
     "html/dont-drink-alcohol.png",
+------------
     TO FXMANIFEST.LUA IN THE FILES SECTION, IT SHOULD BE LIKE THIS 
 ---------------------------------------------------------------------
 
