@@ -10,7 +10,6 @@ BASIC TUTORIAL:
     "html/hand-holding-solid.png", 
     "html/give-a-gift-svgrepo-com.png",
     "html/dont-drink-alcohol.png",
-------------
     TO FXMANIFEST.LUA IN THE FILES SECTION, IT SHOULD BE LIKE THIS 
 ---------------------------------------------------------------------
 
