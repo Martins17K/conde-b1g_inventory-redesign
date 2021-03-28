@@ -1,4 +1,4 @@
-Hi! I decided to make some new design of conde-b1g_inventory. For me it was the best inv I've ever found but I wanted to make my own design so I did it and I want to share it with you guys so it can be another option for you to use. I hope that the owners of this inventory dont worry about that @IB1G and @Daniel_Escadas. (https://github.com/DanielEscadas/conde-b1g_inventory)
+Hi! I decided to make some new design of conde-b1g_inventory. For me it was the best inv I've ever found but I wanted to make my own design so I did it and I want to share it with you guys so it can be another option for you to use. I hope that the owners of this inventory dont worry about it https://github.com/CarlosVergikosk and https://github.com/DanielEscadas. (https://github.com/DanielEscadas/conde-b1g_inventory)
 It is very easy to install it but i still left how to do it in the folder of the redesign.
 ----------------------
 BASIC TUTORIAL:
